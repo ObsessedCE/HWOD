@@ -1,3 +1,5 @@
+// 参考原文 https://blog.csdn.net/qq_45776114/article/details/147288240 
+// 实现方法 贪心 + 线段树
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -45,9 +47,7 @@ long long query(int x, int l, int r, int q) {
     }
 }
 
-bool cmp(int x, int y) {
-    return x > y;
-}
+
 
 int main() {
     int n;
@@ -72,7 +72,7 @@ int main() {
     // 对每个候选人的支持票价进行排序，并按位置填入 f[]
     for (int i = 1; i <= max_a; ++i) {
         if (!tree1[i].empty()) {
-            sort(tree1[i].begin(), tree1[i].end(), cmp);
+            sort(tree1[i].begin(), tree1[i].end());
             for (int j = 0; j < (int)tree1[i].size(); ++j) {
                 f[j + 1].push_back(tree1[i][j]);
             }

@@ -18,6 +18,17 @@
 |  13| [比赛的冠亚季军](https://blog.csdn.net/qq_45776114/article/details/151956536) |模拟|
 |  14| [贪心的商人](https://blog.csdn.net/qq_45776114/article/details/151987999) |贪心|
 |  15| [We Are A Team](https://blog.csdn.net/qq_45776114/article/details/151988570) |并查集|
+|  16| [猜数字](https://blog.csdn.net/qq_45776114/article/details/152001576) |模拟|
+|  17| [TLV解析Ⅱ](https://blog.csdn.net/qq_45776114/article/details/147029097) |模拟|
+|  18| [构成正方形的数量](https://blog.csdn.net/qq_45776114/article/details/152036596) |数学原理|
+|  19| [猴子爬山](https://blog.csdn.net/qq_45776114/article/details/152047524) |动态规划|
+|  20| [密码解密](https://blog.csdn.net/qq_45776114/article/details/152073802) |正则、栈|
+|  21| [构造数列](https://blog.csdn.net/qq_45776114/article/details/148456628) |动态规划、树状数组|
+|  22| [路灯照明问题](https://blog.csdn.net/qq_45776114/article/details/152115820) |区间合并、逻辑分析|
+|  23| [完全二叉树非叶子节点后序遍历](https://blog.csdn.net/qq_45776114/article/details/152164733) |DFS|
+|  24| [处理器问题](https://blog.csdn.net/qq_45776114/article/details/152167738) |DFS|
+|  25| [正则表达式替换](https://blog.csdn.net/qq_45776114/article/details/152208863) |模拟|
+|  26| [特异性双端队列](https://blog.csdn.net/qq_45776114/article/details/152212448) |贪心|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -28,4 +39,8 @@
 |  4| [高效的任务规划](https://blog.csdn.net/qq_45776114/article/details/151852186) |贪心|
 |  5| [机器人走迷宫](https://blog.csdn.net/qq_45776114/article/details/151895326) |BFS、DFS|
 |  6| [模拟工作队列](https://blog.csdn.net/qq_45776114/article/details/151923247) |模拟|
-|  8| [基站维修工程师](https://blog.csdn.net/qq_45776114/article/details/151958118) |递归回溯|
+|  7| [基站维修工程师](https://blog.csdn.net/qq_45776114/article/details/151958118) |递归回溯|
+|  8| [篮球游戏](https://blog.csdn.net/qq_45776114/article/details/152077682) |模拟|
+|  9| [组合出合法最小数](https://blog.csdn.net/qq_45776114/article/details/152118886) |逻辑分析|
+|  10| [快递员的烦恼](https://blog.csdn.net/qq_45776114/article/details/152162964) |树状DP、最短路算法|
+|  11| [新学校选址](https://blog.csdn.net/qq_45776114/article/details/152211348) |数学原理|

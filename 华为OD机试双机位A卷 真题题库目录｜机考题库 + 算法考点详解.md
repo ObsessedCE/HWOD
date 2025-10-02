@@ -29,6 +29,12 @@
 |  24| [处理器问题](https://blog.csdn.net/qq_45776114/article/details/152167738) |DFS|
 |  25| [正则表达式替换](https://blog.csdn.net/qq_45776114/article/details/152208863) |模拟|
 |  26| [特异性双端队列](https://blog.csdn.net/qq_45776114/article/details/152212448) |贪心|
+|  27| [智能成绩表](https://blog.csdn.net/qq_45776114/article/details/152264003) |排序|
+|  28| [螺旋数字矩阵](https://blog.csdn.net/qq_45776114/article/details/152271126) |模拟|
+|  29| [相对开音节](https://blog.csdn.net/qq_45776114/article/details/152274109) |正则|
+|  30| [最长的顺子](https://blog.csdn.net/qq_45776114/article/details/152310768) |贪心|
+|  31| [最多购买宝石的数量](https://blog.csdn.net/qq_45776114/article/details/150454298) |双指针|
+|  32| [MVP争夺战](https://blog.csdn.net/qq_45776114/article/details/152370464) |递归回溯|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -44,3 +50,5 @@
 |  9| [组合出合法最小数](https://blog.csdn.net/qq_45776114/article/details/152118886) |逻辑分析|
 |  10| [快递员的烦恼](https://blog.csdn.net/qq_45776114/article/details/152162964) |树状DP、最短路算法|
 |  11| [新学校选址](https://blog.csdn.net/qq_45776114/article/details/152211348) |数学原理|
+|  12| [特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
+|  13| [区间交集](https://blog.csdn.net/qq_45776114/article/details/152359544) |区间问题|

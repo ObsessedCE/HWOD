@@ -35,6 +35,15 @@
 |  30| [最长的顺子](https://blog.csdn.net/qq_45776114/article/details/152310768) |贪心|
 |  31| [最多购买宝石的数量](https://blog.csdn.net/qq_45776114/article/details/150454298) |双指针|
 |  32| [MVP争夺战](https://blog.csdn.net/qq_45776114/article/details/152370464) |递归回溯|
+|  33| [乘坐保密电梯](https://blog.csdn.net/qq_45776114/article/details/152408740) |递归回溯|
+|  34| [查找单入口区域](https://blog.csdn.net/qq_45776114/article/details/152408892) |BFS、DFS|
+|  35| [计算误码率](https://blog.csdn.net/qq_45776114/article/details/152446945) |模拟、双指针|
+|  36| [跳房子Ⅰ](https://blog.csdn.net/qq_45776114/article/details/152511698) |模拟分析、哈希表|
+|  37| [符号运算](https://blog.csdn.net/qq_45776114/article/details/152562857) |模拟|
+|  38| [AI面板识别](https://blog.csdn.net/qq_45776114/article/details/152601993) |模拟、排序|
+|  39| [最快到达医院的方法](https://blog.csdn.net/qq_45776114/article/details/152665125) |模拟|
+|  40| [报文响应时间](https://blog.csdn.net/qq_45776114/article/details/147913914) |模拟、位运算|
+|  41| [异常的打卡记录](https://blog.csdn.net/qq_45776114/article/details/152746130) |模拟|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -52,3 +61,6 @@
 |  11| [新学校选址](https://blog.csdn.net/qq_45776114/article/details/152211348) |数学原理|
 |  12| [特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
 |  13| [区间交集](https://blog.csdn.net/qq_45776114/article/details/152359544) |区间问题|
+|  14| [任务最优调度](https://blog.csdn.net/qq_45776114/article/details/152514357) |数学原理|
+|  15| [取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
+|16| [模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理   递归|

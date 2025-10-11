@@ -44,7 +44,10 @@
 |  39| [最快到达医院的方法](https://blog.csdn.net/qq_45776114/article/details/152665125) |模拟|
 |  40| [报文响应时间](https://blog.csdn.net/qq_45776114/article/details/147913914) |模拟、位运算|
 |  41| [异常的打卡记录](https://blog.csdn.net/qq_45776114/article/details/152746130) |模拟|
-
+|  42| [完美走位](https://blog.csdn.net/qq_45776114/article/details/152815719) |双指针|
+|  43| [数值同化](https://blog.csdn.net/qq_45776114/article/details/152957866) |BFS|
+|  44| [农场施肥](https://blog.csdn.net/qq_45776114/article/details/152960123) |二分|
+|  45| [查找接口成功率最优时间段](https://blog.csdn.net/qq_45776114/article/details/153066891) |前缀和|
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
@@ -64,3 +67,4 @@
 |  14| [任务最优调度](https://blog.csdn.net/qq_45776114/article/details/152514357) |数学原理|
 |  15| [取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
 |16| [模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理   递归|
+|17| [信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学原理、贪心|

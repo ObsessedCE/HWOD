@@ -51,6 +51,12 @@
 |  46| [华为OD机试双机位A卷 -虚拟理财游戏](https://blog.csdn.net/qq_45776114/article/details/153141433) |贪心|
 |  47| [华为OD机试双机位A卷 -小明减肥](https://blog.csdn.net/qq_45776114/article/details/153211749) |二进制枚举|
 |  48| [华为OD机试双机位A卷 -VLAN资源池](https://blog.csdn.net/qq_45776114/article/details/153214044) |模拟|
+|  49| [华为OD机试双机位A卷 -模拟工作队列](https://blog.csdn.net/qq_45776114/article/details/151923247) |模拟|
+|  50| [华为OD机试双机位A卷 -字符串计数匹配](https://blog.csdn.net/qq_45776114/article/details/153406093) |双指针|
+|  51| [华为OD机试双机位A卷 -游戏分组](https://blog.csdn.net/qq_45776114/article/details/153472011) |暴力枚举|
+|  52| [华为OD机试双机位A卷 -寻找最大价值矿堆](https://blog.csdn.net/qq_45776114/article/details/153527298) |BFS / DFS|
+|  53| [华为OD机试双机位A卷 -高矮个子排队](https://blog.csdn.net/qq_45776114/article/details/153630406) |贪心|
+|  54| [华为OD机试双机位A卷 -压缩日志查询](https://blog.csdn.net/qq_45776114/article/details/153589725) |区间交集|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -72,3 +78,6 @@
 |  15| [华为OD机试双机位A卷 -取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
 |16| [华为OD机试双机位A卷 -模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理   递归|
 |17| [华为OD机试双机位A卷 -信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学原理、贪心|
+|18| [华为OD机试双机位A卷 - 敌情监控 ](https://blog.csdn.net/qq_45776114/article/details/153474508) |双指针|
+|19| [华为OD机试双机位A卷 - 数字序列比大小 ](https://blog.csdn.net/qq_45776114/article/details/153525456) |双指针|
+|20| [华为OD机试双机位A卷 - 启动多任务排序 ](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|

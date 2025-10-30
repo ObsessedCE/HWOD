@@ -1,5 +1,6 @@
 转载一下CSDN博主最新分享华为OD机试2025C卷真题. 原文链接 [华为OD机试双机位A卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
+
 # 华为OD机试双机位A卷- 100分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
@@ -57,27 +58,44 @@
 |  52| [华为OD机试双机位A卷 -寻找最大价值矿堆](https://blog.csdn.net/qq_45776114/article/details/153527298) |BFS / DFS|
 |  53| [华为OD机试双机位A卷 -高矮个子排队](https://blog.csdn.net/qq_45776114/article/details/153630406) |贪心|
 |  54| [华为OD机试双机位A卷 -压缩日志查询](https://blog.csdn.net/qq_45776114/article/details/153589725) |区间交集|
+|  55| [华为OD机试双机位A卷 -风险投资计划](https://blog.csdn.net/qq_45776114/article/details/153706984) |贪心|
+|  56| [华为OD机试双机位A卷 -符合条件的元组个数](https://blog.csdn.net/qq_45776114/article/details/153732838) |递归回溯、双指针|
+|  57| [华为OD机试双机位A卷 -热点网站统计](https://blog.csdn.net/qq_45776114/article/details/153793374) |模拟|
+|  58| [华为OD机试双机位A卷 -分弹珠游戏](https://blog.csdn.net/qq_45776114/article/details/153827770) |DFS、二叉树|
+|  59| [华为OD机试双机位A卷 -最长的密码 / 寻找密码](https://blog.csdn.net/qq_45776114/article/details/153840510) |模拟|
+|  60| [华为OD机试双机位A卷 -商品推荐多属性排序](https://blog.csdn.net/qq_45776114/article/details/153874327) |排序|
+|  61| [华为OD机试双机位A卷 -采购订单](https://blog.csdn.net/qq_45776114/article/details/153920676) |模拟|
+|  62| [华为OD机试双机位A卷 - 分披萨](https://blog.csdn.net/qq_45776114/article/details/153920676) |DFS、记忆化剪枝|
+|  63| [华为OD机试双机位A卷 - 出错的或电路](https://blog.csdn.net/qq_45776114/article/details/154080402) |逻辑分析|
+|  64| [华为OD机试双机位A卷 - 中庸行者](https://blog.csdn.net/qq_45776114/article/details/154139402) |DFS|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
-|  1| [华为OD机试双机位A卷 -亲子游戏](https://blog.csdn.net/qq_45776114/article/details/151655970) |BFS|
-|  2| [华为OD机试双机位A卷 -贪心歌手](https://blog.csdn.net/qq_45776114/article/details/151808473) |贪心|
-|  3| [华为OD机试双机位A卷 -字符串拼接](https://blog.csdn.net/qq_45776114/article/details/151816112) |递归回溯|
-|  4| [华为OD机试双机位A卷 -高效的任务规划](https://blog.csdn.net/qq_45776114/article/details/151852186) |贪心|
-|  5| [华为OD机试双机位A卷 -机器人走迷宫](https://blog.csdn.net/qq_45776114/article/details/151895326) |BFS、DFS|
-|  6| [华为OD机试双机位A卷 -模拟工作队列](https://blog.csdn.net/qq_45776114/article/details/151923247) |模拟|
-|  7| [华为OD机试双机位A卷 -基站维修工程师](https://blog.csdn.net/qq_45776114/article/details/151958118) |递归回溯|
-|  8| [华为OD机试双机位A卷 -篮球游戏](https://blog.csdn.net/qq_45776114/article/details/152077682) |模拟|
-|  9| [华为OD机试双机位A卷 -组合出合法最小数](https://blog.csdn.net/qq_45776114/article/details/152118886) |逻辑分析|
-|  10| [华为OD机试双机位A卷 -快递员的烦恼](https://blog.csdn.net/qq_45776114/article/details/152162964) |树状DP、最短路算法|
-|  11| [华为OD机试双机位A卷 -新学校选址](https://blog.csdn.net/qq_45776114/article/details/152211348) |数学原理|
-|  12| [华为OD机试双机位A卷 -特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
-|  13| [华为OD机试双机位A卷 -区间交集](https://blog.csdn.net/qq_45776114/article/details/152359544) |区间问题|
-|  14| [华为OD机试双机位A卷 -任务最优调度](https://blog.csdn.net/qq_45776114/article/details/152514357) |数学原理|
-|  15| [华为OD机试双机位A卷 -取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
-|16| [华为OD机试双机位A卷 -模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理   递归|
-|17| [华为OD机试双机位A卷 -信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学原理、贪心|
-|18| [华为OD机试双机位A卷 - 敌情监控 ](https://blog.csdn.net/qq_45776114/article/details/153474508) |双指针|
-|19| [华为OD机试双机位A卷 - 数字序列比大小 ](https://blog.csdn.net/qq_45776114/article/details/153525456) |双指针|
-|20| [华为OD机试双机位A卷 - 启动多任务排序 ](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|
+|  1| [华为OD机考双机位A卷 - 亲子游戏](https://blog.csdn.net/qq_45776114/article/details/151655970) |BFS|
+|  2| [华为OD机考双机位A卷 - 贪心歌手](https://blog.csdn.net/qq_45776114/article/details/151808473) |贪心|
+|  3| [华为OD机考双机位A卷 - 字符串拼接](https://blog.csdn.net/qq_45776114/article/details/151816112) |递归回溯|
+|  4| [华为OD机考双机位A卷 - 高效的任务规划](https://blog.csdn.net/qq_45776114/article/details/151852186) |贪心|
+|  5| [华为OD机考双机位A卷 - 机器人走迷宫](https://blog.csdn.net/qq_45776114/article/details/151895326) |BFS、DFS|
+|  6| [华为OD机考双机位A卷 - WonderLand](https://blog.csdn.net/qq_45776114/article/details/153409718) |动态规划|
+|  7| [华为OD机考双机位A卷 - 基站维修工程师](https://blog.csdn.net/qq_45776114/article/details/151958118) |递归回溯|
+|  8| [华为OD机考双机位A卷 - 篮球游戏](https://blog.csdn.net/qq_45776114/article/details/152077682) |模拟|
+|  9| [华为OD机考双机位A卷 - 组合出合法最小数](https://blog.csdn.net/qq_45776114/article/details/152118886) |逻辑分析|
+|  10| [华为OD机考双机位A卷 - 快递员的烦恼](https://blog.csdn.net/qq_45776114/article/details/152162964) |树状DP、最短路算法|
+|  11| [华为OD机考双机位A卷 - 新学校选址](https://blog.csdn.net/qq_45776114/article/details/152211348) |数学原理|
+|  12| [华为OD机考双机位A卷 - 特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
+|  13| [华为OD机考双机位A卷 - 区间交集](https://blog.csdn.net/qq_45776114/article/details/152359544) |区间问题|
+|  14| [华为OD机考双机位A卷 - 任务最优调度](https://blog.csdn.net/qq_45776114/article/details/152514357) |数学原理|
+|  15| [华为OD机考双机位A卷 - 取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
+|16| [华为OD机考双机位A卷 - 模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理   递归|
+|17| [华为OD机考双机位A卷 - 信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学原理、贪心|
+|18| [华为OD机考双机位A卷 - 敌情监控 ](https://blog.csdn.net/qq_45776114/article/details/153474508) |双指针|
+|19| [华为OD机考双机位A卷 - 数字序列比大小 ](https://blog.csdn.net/qq_45776114/article/details/153525456) |双指针|
+|20| [华为OD机考双机位A卷 - 启动多任务排序 ](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|
+|21| [华为OD机考双机位A卷 - 区间连接器](https://blog.csdn.net/qq_45776114/article/details/153705802) |区间合并、贪心|
+|22| [华为OD机考双机位A卷 - 不含101的数](https://blog.csdn.net/qq_45776114/article/details/153779628) |数位DP、记忆化搜索|
+|23| [华为OD机考双机位A卷 - Excel单元格数值统计](https://blog.csdn.net/qq_45776114/article/details/153876817) |DFS|
+|24| [华为OD机考双机位A卷 - 统计差异值大于相似值二元组个数](https://blog.csdn.net/qq_45776114/article/details/153925842) |数学原理|
+| 25| [华为OD机考双机位A卷  - 二维伞的雨滴效应](https://blog.csdn.net/qq_45776114/article/details/153969936) |搜索二叉树|
+|26| [华为OD机试双机位A卷 - 最佳植树距离](https://blog.csdn.net/qq_45776114/article/details/153975296) |二分|
+|27| [华为OD机试双机位A卷 - 找到它](https://blog.csdn.net/qq_45776114/article/details/154079368) |递归回溯|

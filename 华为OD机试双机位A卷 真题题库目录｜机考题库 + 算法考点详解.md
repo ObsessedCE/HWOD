@@ -1,6 +1,7 @@
 转载一下CSDN博主最新分享华为OD机试2025C卷真题. 原文链接 [华为OD机试双机位A卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
 
+
 # 华为OD机试双机位A卷- 100分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
@@ -68,7 +69,6 @@
 |  62| [华为OD机试双机位A卷 - 分披萨](https://blog.csdn.net/qq_45776114/article/details/153920676) |DFS、记忆化剪枝|
 |  63| [华为OD机试双机位A卷 - 出错的或电路](https://blog.csdn.net/qq_45776114/article/details/154080402) |逻辑分析|
 |  64| [华为OD机试双机位A卷 - 中庸行者](https://blog.csdn.net/qq_45776114/article/details/154139402) |DFS|
-
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
@@ -99,3 +99,6 @@
 | 25| [华为OD机考双机位A卷  - 二维伞的雨滴效应](https://blog.csdn.net/qq_45776114/article/details/153969936) |搜索二叉树|
 |26| [华为OD机试双机位A卷 - 最佳植树距离](https://blog.csdn.net/qq_45776114/article/details/153975296) |二分|
 |27| [华为OD机试双机位A卷 - 找到它](https://blog.csdn.net/qq_45776114/article/details/154079368) |递归回溯|
+|28| [华为OD机试双机位A卷 - 网格红绿灯最短路径](https://blog.csdn.net/qq_45776114/article/details/154191260) |最短路算法|
+|29| [华为OD机试双机位A卷 - 数组组成的最小数字](https://blog.csdn.net/qq_45776114/article/details/154201491) |逻辑分析、自定义排序|
+

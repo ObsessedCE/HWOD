@@ -69,6 +69,16 @@
 |  62| [华为OD机试双机位A卷 - 分披萨](https://blog.csdn.net/qq_45776114/article/details/153920676) |DFS、记忆化剪枝|
 |  63| [华为OD机试双机位A卷 - 出错的或电路](https://blog.csdn.net/qq_45776114/article/details/154080402) |逻辑分析|
 |  64| [华为OD机试双机位A卷 - 中庸行者](https://blog.csdn.net/qq_45776114/article/details/154139402) |DFS|
+|  65| [华为OD机试双机位A卷 - 插队](https://blog.csdn.net/qq_45776114/article/details/154242433) |模拟|
+|  66| [华为OD机试双机位A卷 - 最左侧冗余覆盖子串](https://blog.csdn.net/qq_45776114/article/details/154318166) |滑动窗口|
+|  67| [华为OD机试双机位A卷 - IPv4地址转换成整数](https://blog.csdn.net/qq_45776114/article/details/154354407) |二进制、模拟|
+|  68| [华为OD机试双机位A卷 - 货币单位换算](https://blog.csdn.net/qq_45776114/article/details/154393489) |模拟|
+|  69| [华为OD机试双机位A卷 - 字符串解密](https://blog.csdn.net/qq_45776114/article/details/154437339) |模拟、正则|
+|  70| [华为OD机试双机位A卷 - 打印机队列](https://blog.csdn.net/qq_45776114/article/details/154494838) |优先队列|
+|  71| [华为OD机试双机位A卷 - 运维日志排序](https://blog.csdn.net/qq_45776114/article/details/154495509) |字符串处理、排序|
+|  72| [华为OD机试双机位A卷 - 敏感字段加密](https://blog.csdn.net/qq_45776114/article/details/154544681) |模拟|
+|  73| [华为OD机试双机位A卷 - 游戏分组](https://blog.csdn.net/qq_45776114/article/details/154561920) |DFS、二进制枚举|
+
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
@@ -94,11 +104,16 @@
 |20| [华为OD机考双机位A卷 - 启动多任务排序 ](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|
 |21| [华为OD机考双机位A卷 - 区间连接器](https://blog.csdn.net/qq_45776114/article/details/153705802) |区间合并、贪心|
 |22| [华为OD机考双机位A卷 - 不含101的数](https://blog.csdn.net/qq_45776114/article/details/153779628) |数位DP、记忆化搜索|
-|23| [华为OD机考双机位A卷 - Excel单元格数值统计](https://blog.csdn.net/qq_45776114/article/details/153876817) |DFS|
+|23| [华为OD机考双机位A卷 - 叠积木](https://blog.csdn.net/qq_45776114/article/details/154404257) |逻辑分析、双指针|
 |24| [华为OD机考双机位A卷 - 统计差异值大于相似值二元组个数](https://blog.csdn.net/qq_45776114/article/details/153925842) |数学原理|
-| 25| [华为OD机考双机位A卷  - 二维伞的雨滴效应](https://blog.csdn.net/qq_45776114/article/details/153969936) |搜索二叉树|
+| 25| [华为OD机考双机位A卷  - 产品模块算法检验](https://blog.csdn.net/qq_45776114/article/details/154128929) |图论|
 |26| [华为OD机试双机位A卷 - 最佳植树距离](https://blog.csdn.net/qq_45776114/article/details/153975296) |二分|
 |27| [华为OD机试双机位A卷 - 找到它](https://blog.csdn.net/qq_45776114/article/details/154079368) |递归回溯|
 |28| [华为OD机试双机位A卷 - 网格红绿灯最短路径](https://blog.csdn.net/qq_45776114/article/details/154191260) |最短路算法|
 |29| [华为OD机试双机位A卷 - 数组组成的最小数字](https://blog.csdn.net/qq_45776114/article/details/154201491) |逻辑分析、自定义排序|
-
+|30| [华为OD机试双机位A卷 - 几何平均值最大的子数组](https://blog.csdn.net/qq_45776114/article/details/154294746) |数学原理、二分|
+| 31| [华为OD机考双机位A卷  - 二维伞的雨滴效应](https://blog.csdn.net/qq_45776114/article/details/153969936) |搜索二叉树|
+| 32| [华为OD机考双机位A卷  - 优雅子数组](https://blog.csdn.net/qq_45776114/article/details/154334317) |双指针|
+|33| [华为OD机考双机位A卷 - Excel单元格数值统计](https://blog.csdn.net/qq_45776114/article/details/153876817) |DFS|
+|34| [华为OD机考双机位A卷 - 导师请吃火锅](https://blog.csdn.net/qq_45776114/article/details/154403030) |贪心|
+|35| [华为OD机考双机位A卷 - 竖直四子棋](https://blog.csdn.net/qq_45776114/article/details/154563482) |逻辑分析、DFS|

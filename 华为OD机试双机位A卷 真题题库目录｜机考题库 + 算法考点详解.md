@@ -74,10 +74,16 @@
 |  67| [华为OD机试双机位A卷 - IPv4地址转换成整数](https://blog.csdn.net/qq_45776114/article/details/154354407) |二进制、模拟|
 |  68| [华为OD机试双机位A卷 - 货币单位换算](https://blog.csdn.net/qq_45776114/article/details/154393489) |模拟|
 |  69| [华为OD机试双机位A卷 - 字符串解密](https://blog.csdn.net/qq_45776114/article/details/154437339) |模拟、正则|
-|  70| [华为OD机试双机位A卷 - 打印机队列](https://blog.csdn.net/qq_45776114/article/details/154494838) |优先队列|
+|  70| [华为OD机试双机位A卷 - 整理版本号](https://blog.csdn.net/qq_45776114/article/details/154649643) |模拟|
 |  71| [华为OD机试双机位A卷 - 运维日志排序](https://blog.csdn.net/qq_45776114/article/details/154495509) |字符串处理、排序|
 |  72| [华为OD机试双机位A卷 - 敏感字段加密](https://blog.csdn.net/qq_45776114/article/details/154544681) |模拟|
 |  73| [华为OD机试双机位A卷 - 游戏分组](https://blog.csdn.net/qq_45776114/article/details/154561920) |DFS、二进制枚举|
+|  74| [华为OD机试双机位A卷 - 面试叫号系统](https://blog.csdn.net/qq_45776114/article/details/154760047) |模拟|
+|  75| [华为OD机试双机位A卷 - 打印机队列](https://blog.csdn.net/qq_45776114/article/details/154494838) |优先队列|
+|  76| [华为OD机试双机位A卷 - 提取字符串中的最长合法简单数学表达式](https://blog.csdn.net/qq_45776114/article/details/154692819) |双指针|
+|  77| [华为OD机试双机位A卷 - 考勤信息](https://blog.csdn.net/qq_45776114/article/details/154734375) |双指针|
+|  78| [华为OD机试双机位A卷 - 国际移动用户识别码(IMSI)匹配](https://blog.csdn.net/qq_45776114/article/details/154643833) |模拟|
+|  79| [华为OD机试双机位A卷 - 机器人活动区域](https://blog.csdn.net/qq_45776114/article/details/154836625) |BFS、DFS|
 
 # 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -117,3 +123,7 @@
 |33| [华为OD机考双机位A卷 - Excel单元格数值统计](https://blog.csdn.net/qq_45776114/article/details/153876817) |DFS|
 |34| [华为OD机考双机位A卷 - 导师请吃火锅](https://blog.csdn.net/qq_45776114/article/details/154403030) |贪心|
 |35| [华为OD机考双机位A卷 - 竖直四子棋](https://blog.csdn.net/qq_45776114/article/details/154563482) |逻辑分析、DFS|
+|36| [华为OD机考双机位A卷 - 水库溃坝填补](https://blog.csdn.net/qq_45776114/article/details/154811498) |匈牙利算法|
+|37| [华为OD机考双机位A卷 - 智能驾驶](https://blog.csdn.net/qq_45776114/article/details/154725698) |二分、DFS|
+|38| [华为OD机考双机位A卷 - 项目排期 / 最少交付时间](https://blog.csdn.net/qq_45776114/article/details/154782732) |二分、DFS|
+|39| [华为OD机考双机位A卷 - 上班之路](https://blog.csdn.net/qq_45776114/article/details/154679089) |BFS、记忆化搜索|

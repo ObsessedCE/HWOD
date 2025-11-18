@@ -1,8 +1,7 @@
 转载一下CSDN博主最新分享华为OD机试2025C卷真题. 原文链接 [华为OD机试双机位A卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
 
-
-# 华为OD机试双机位A卷- 100分
+## 华为OD机试双机位A卷- 100分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
 |  1| [华为OD机试双机位A卷 - 流浪地球](https://blog.csdn.net/qq_45776114/article/details/151656023) |BFS|
@@ -84,8 +83,8 @@
 |  77| [华为OD机试双机位A卷 - 考勤信息](https://blog.csdn.net/qq_45776114/article/details/154734375) |双指针|
 |  78| [华为OD机试双机位A卷 - 国际移动用户识别码(IMSI)匹配](https://blog.csdn.net/qq_45776114/article/details/154643833) |模拟|
 |  79| [华为OD机试双机位A卷 - 机器人活动区域](https://blog.csdn.net/qq_45776114/article/details/154836625) |BFS、DFS|
-
-# 华为OD机试双机位A卷- 200分
+|  80| [华为OD机试双机位A卷 -字符串分割转换](https://blog.csdn.net/qq_45776114/article/details/154956029) |模拟|
+## 华为OD机试双机位A卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
 |  1| [华为OD机考双机位A卷 - 亲子游戏](https://blog.csdn.net/qq_45776114/article/details/151655970) |BFS|
@@ -127,3 +126,5 @@
 |37| [华为OD机考双机位A卷 - 智能驾驶](https://blog.csdn.net/qq_45776114/article/details/154725698) |二分、DFS|
 |38| [华为OD机考双机位A卷 - 项目排期 / 最少交付时间](https://blog.csdn.net/qq_45776114/article/details/154782732) |二分、DFS|
 |39| [华为OD机考双机位A卷 - 上班之路](https://blog.csdn.net/qq_45776114/article/details/154679089) |BFS、记忆化搜索|
+|40| [华为OD机考双机位A卷 - 分积木](https://blog.csdn.net/qq_45776114/article/details/154869770) |数学原理|
+|41| [华为OD机考双机位A卷 -  寻找最优的路测线路](https://blog.csdn.net/qq_45776114/article/details/154954027) |最短路算法|

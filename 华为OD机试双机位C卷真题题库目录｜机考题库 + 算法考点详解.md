@@ -1,4 +1,4 @@
-转载一下CSDN博主最新分享华为OD机试2025C卷真题. 原文链接 [华为OD机试双机位C卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
+转载一下CSDN博主最新分享华为OD机试双机位C卷真题. 原文链接 [华为OD机试双机位C卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
 
 # 华为OD机试双机位C卷- 100分

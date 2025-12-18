@@ -1,6 +1,7 @@
 转载一下CSDN博主最新分享华为OD机试2025C卷真题. 原文链接 [华为OD机试双机位C卷真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
-## 华为OD机试双机位C卷- 100分
+
+# 华为OD机试双机位C卷- 100分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
 |  1| [华为OD机试双机位C卷 -  查找接口成功率最优时间段](https://blog.csdn.net/qq_45776114/article/details/153066891) |前缀和|
@@ -40,8 +41,11 @@
 |  36| [华为OD机试双机位C卷 - 统计射击比赛成绩 ](https://blog.csdn.net/qq_45776114/article/details/150467817) |哈希、自定义排序|
 |  37| [华为OD机试双机位C卷 - 停车场收入统计 ](https://blog.csdn.net/qq_45776114/article/details/155945356) |模拟|
 |  38| [华为OD机试双机位C卷 - 异常的打卡记录 ](https://blog.csdn.net/qq_45776114/article/details/152746130) |模拟|
+|  39| [华为OD机试双机位C卷 - 寻找密码 ](https://blog.csdn.net/qq_45776114/article/details/153840510) |模拟、逻辑分析|
+|  40| [华为OD机试双机位C卷 - 网上商城优惠活动 ](https://blog.csdn.net/qq_45776114/article/details/155019641) |模拟|
+|  41| [华为OD机试双机位C卷 - 分苹果 ](https://blog.csdn.net/qq_45776114/article/details/146024991) |数学原理|
 
-## 华为OD机试双机位C卷- 200分
+# 华为OD机试双机位C卷- 200分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
 |  1| [华为OD机考双机位C卷 - 员工派遣](https://blog.csdn.net/qq_45776114/article/details/155344996) |二分、数学原理|
@@ -62,4 +66,7 @@
 |  16| [华为OD机试双机位C卷 - 符号运算](https://blog.csdn.net/qq_45776114/article/details/146877449) |栈|
 |  17| [华为OD机试双机位C卷 - 计算误码率](https://blog.csdn.net/qq_45776114/article/details/149966733) |模拟、双指针|
 |  18| [华为OD机试双机位C卷 - 去除多余空格](https://blog.csdn.net/qq_45776114/article/details/155892494) |模拟|
+|  19| [华为OD机试双机位C卷 - 组装新的数组 ](https://blog.csdn.net/qq_45776114/article/details/155015740) |DFS|
+|  20| [华为OD机试双机位C卷 - 任务编排系统 ](https://blog.csdn.net/qq_45776114/article/details/145730430) |数学原理|
+
 

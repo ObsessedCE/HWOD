@@ -44,6 +44,15 @@
 |  39| [华为OD机试双机位C卷 - 寻找密码 ](https://blog.csdn.net/qq_45776114/article/details/153840510) |模拟、逻辑分析|
 |  40| [华为OD机试双机位C卷 - 网上商城优惠活动 ](https://blog.csdn.net/qq_45776114/article/details/155019641) |模拟|
 |  41| [华为OD机试双机位C卷 - 分苹果 ](https://blog.csdn.net/qq_45776114/article/details/146024991) |数学原理|
+|  42| [华为OD机试双机位C卷 - 池化资源共享 ](https://blog.csdn.net/qq_45776114/article/details/148593120) |模拟|
+|  43| [华为OD机试双机位C卷 - 矩阵扩散 ](https://blog.csdn.net/qq_45776114/article/details/154985212) |BFS|
+|  44| [华为OD机试双机位C卷 - 字符串摘要 ](https://blog.csdn.net/qq_45776114/article/details/151889866) |模拟|
+|  45| [华为OD机试双机位C卷 - 虚拟理财游戏 ](https://blog.csdn.net/qq_45776114/article/details/149797273) |模拟|
+|  46| [华为OD机试双机位C卷 - 寻找密码 ](https://blog.csdn.net/qq_45776114/article/details/153840510) |排序|
+|  47| [华为OD机试双机位C卷 - 跳房子 ](https://blog.csdn.net/qq_45776114/article/details/152511698) |逻辑分析|
+|  48| [华为OD机试双机位C卷 - 字符串分割转换](https://blog.csdn.net/qq_45776114/article/details/154956029) |模拟|
+|  49| [华为OD机试双机位C卷 - 分披萨](https://blog.csdn.net/qq_45776114/article/details/150110013) |DFS、记忆化搜索|
+|  50| [华为OD机试双机位C卷 - 乘坐保密电梯](https://blog.csdn.net/qq_45776114/article/details/147562808) |递归回溯|
 
 # 华为OD机试双机位C卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -62,11 +71,20 @@
 |  12| [华为OD机考双机位C卷 - 最小矩阵宽度](https://blog.csdn.net/qq_45776114/article/details/149489387) |双指针|
 |  13| [华为OD机考双机位C卷 - 推荐多样性](https://blog.csdn.net/qq_45776114/article/details/146167656) |模拟|
 |  14| [华为OD机考双机位C卷 - 单核CPU任务调度](https://blog.csdn.net/qq_45776114/article/details/150142834) |模拟、优先队列|
-|  15| [华为OD机考双机位C卷 - 水库溃坝填补](https://blog.csdn.net/qq_45776114/article/details/155713474) |贪心|
+|  15| [华为OD机考双机位C卷 - 评论转换输出](https://blog.csdn.net/qq_45776114/article/details/150345792) |DFS|
 |  16| [华为OD机试双机位C卷 - 符号运算](https://blog.csdn.net/qq_45776114/article/details/146877449) |栈|
 |  17| [华为OD机试双机位C卷 - 计算误码率](https://blog.csdn.net/qq_45776114/article/details/149966733) |模拟、双指针|
 |  18| [华为OD机试双机位C卷 - 去除多余空格](https://blog.csdn.net/qq_45776114/article/details/155892494) |模拟|
 |  19| [华为OD机试双机位C卷 - 组装新的数组 ](https://blog.csdn.net/qq_45776114/article/details/155015740) |DFS|
 |  20| [华为OD机试双机位C卷 - 任务编排系统 ](https://blog.csdn.net/qq_45776114/article/details/145730430) |数学原理|
+|  21| [华为OD机试双机位C卷 - 数据序列比大小 ](https://blog.csdn.net/qq_45776114/article/details/149877452) |双指针|
+|  22| [华为OD机考双机位C卷 - 水库溃坝填补](https://blog.csdn.net/qq_45776114/article/details/155713474) |贪心|
+|  23| [华为OD机考双机位C卷 - 叠积木](https://blog.csdn.net/qq_45776114/article/details/154404257) |逻辑分析、双指针|
+|  24| [华为OD机考双机位C卷 - 最佳对手](https://blog.csdn.net/qq_45776114/article/details/147562808) |动态规划|
+|  25| [华为OD机考双机位C卷 - 任务最优调度](https://blog.csdn.net/qq_45776114/article/details/152514357) |数学原理|
+|  26| [华为OD机考双机位C卷 - 通过软盘拷贝文件](https://blog.csdn.net/qq_45776114/article/details/149265213) |背包问题|
+|  27| [华为OD机考双机位C卷 - 区间交集](https://blog.csdn.net/qq_45776114/article/details/148066883) |区间问题|
+|  28| [华为OD机考双机位C卷 - 信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学问题、贪心|
+|  29| [华为OD机考双机位C卷 - 采样过滤](https://blog.csdn.net/qq_45776114/article/details/156169469) |模拟|
 
 

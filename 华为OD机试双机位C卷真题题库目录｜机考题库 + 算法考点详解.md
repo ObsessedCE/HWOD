@@ -30,7 +30,7 @@
 |  24| [华为OD机试双机位C卷 - 贪心的商人](https://blog.csdn.net/qq_45776114/article/details/151576048) |贪心|
 |  25| [华为OD机试双机位C卷 - 小华地图寻宝](https://blog.csdn.net/qq_45776114/article/details/149677299) |BFS、DFS|
 |  26| [华为OD机试双机位C卷 - 查找单入口空闲区域](https://blog.csdn.net/qq_45776114/article/details/146296485) |BFS、DFS|
-|  27| [华为OD机试双机位C卷 - 猜数字](https://blog.csdn.net/qq_45776114/article/details/152001576) |BFS、DFS|
+|  27| [华为OD机试双机位C卷 - 开心消消乐](https://blog.csdn.net/qq_45776114/article/details/151899669) |BFS、DFS|
 |  28| [华为OD机试双机位C卷 - 风险投资计划](https://blog.csdn.net/qq_45776114/article/details/153706984) |贪心|
 |  29| [华为OD机试双机位C卷 - 机器人活动区域](https://blog.csdn.net/qq_45776114/article/details/154836625) |BFS、DFS|
 |  31| [华为OD机试双机位C卷 - 流水线](https://blog.csdn.net/qq_45776114/article/details/149835068) |模拟|
@@ -48,11 +48,22 @@
 |  43| [华为OD机试双机位C卷 - 矩阵扩散 ](https://blog.csdn.net/qq_45776114/article/details/154985212) |BFS|
 |  44| [华为OD机试双机位C卷 - 字符串摘要 ](https://blog.csdn.net/qq_45776114/article/details/151889866) |模拟|
 |  45| [华为OD机试双机位C卷 - 虚拟理财游戏 ](https://blog.csdn.net/qq_45776114/article/details/149797273) |模拟|
-|  46| [华为OD机试双机位C卷 - 寻找密码 ](https://blog.csdn.net/qq_45776114/article/details/153840510) |排序|
+|  46| [华为OD机试双机位C卷 - 自动泊车 ](https://blog.csdn.net/qq_45776114/article/details/156130409) |BFS|
 |  47| [华为OD机试双机位C卷 - 跳房子 ](https://blog.csdn.net/qq_45776114/article/details/152511698) |逻辑分析|
 |  48| [华为OD机试双机位C卷 - 字符串分割转换](https://blog.csdn.net/qq_45776114/article/details/154956029) |模拟|
 |  49| [华为OD机试双机位C卷 - 分披萨](https://blog.csdn.net/qq_45776114/article/details/150110013) |DFS、记忆化搜索|
 |  50| [华为OD机试双机位C卷 - 乘坐保密电梯](https://blog.csdn.net/qq_45776114/article/details/147562808) |递归回溯|
+|  51| [华为OD机试双机位C卷 - 完全二叉树非叶子部分后序遍历](https://blog.csdn.net/qq_45776114/article/details/152164733) |DFS|
+|  52| [华为OD机试双机位C卷 - AI处理器组合](https://blog.csdn.net/qq_45776114/article/details/155195655) |模拟、DFS|
+|  53| [华为OD机试双机位C卷 - 图像坏点矫正](https://blog.csdn.net/qq_45776114/article/details/156195867) |模拟|
+|  54| [华为OD机试双机位C卷 - 挑选字符串](https://blog.csdn.net/qq_45776114/article/details/155541299) |贪心|
+|  55| [华为OD机试双机位C卷 - 最小调整顺序次数](https://blog.csdn.net/qq_45776114/article/details/152212448) |贪心|
+|  56| [华为OD机试双机位C卷 - 敌情监控](https://blog.csdn.net/qq_45776114/article/details/155269928) |滑动窗口|
+|  57| [华为OD机试双机位C卷 - 生成哈夫曼树](https://blog.csdn.net/qq_45776114/article/details/148151509) |哈夫曼树|
+| 58| [华为OD机试双机位C卷 - MVP争夺战](https://blog.csdn.net/qq_45776114/article/details/152370464) |递归回溯|
+| 59| [华为OD机试双机位C卷 - 小明减肥](https://blog.csdn.net/qq_45776114/article/details/147966585) |二进制枚举|
+|60| [华为OD机试双机位C卷 - 货币单位换算](https://blog.csdn.net/qq_45776114/article/details/155410016) |模拟|
+
 
 # 华为OD机试双机位C卷- 200分
 | 序号 |题目  | 考点 or 实现 |
@@ -86,5 +97,9 @@
 |  27| [华为OD机考双机位C卷 - 区间交集](https://blog.csdn.net/qq_45776114/article/details/148066883) |区间问题|
 |  28| [华为OD机考双机位C卷 - 信道分配](https://blog.csdn.net/qq_45776114/article/details/153060129) |数学问题、贪心|
 |  29| [华为OD机考双机位C卷 - 采样过滤](https://blog.csdn.net/qq_45776114/article/details/156169469) |模拟|
-
-
+|30| [华为OD机考双机位C卷 -  统计员工影响力分数](https://blog.csdn.net/qq_45776114/article/details/156336941) |DFS|
+| 31| [华为OD机试双机位C卷 - 快递员的烦恼](https://blog.csdn.net/qq_45776114/article/details/155300208) |动态规划、最短路径|
+| 32| [华为OD机试双机位C卷 - 优选核酸检测点](https://blog.csdn.net/qq_45776114/article/details/146535057) |模拟|
+|33| [华为OD机考双机位C卷 -  寻找最优的路测线路](https://blog.csdn.net/qq_45776114/article/details/149881277) |最短路算法|
+|34| [华为OD机考双机位C卷 -  游戏分组](https://blog.csdn.net/qq_45776114/article/details/153472011) |DFS|
+|35| [华为OD机试双机位B卷 - 最佳的出牌方法 ](https://blog.csdn.net/qq_45776114/article/details/148670638) |递归回溯|

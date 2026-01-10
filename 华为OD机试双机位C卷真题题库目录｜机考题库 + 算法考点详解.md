@@ -112,3 +112,5 @@
 |36| [华为OD机试双机位C卷 - 结对编程 ](https://blog.csdn.net/qq_45776114/article/details/156398765) |逻辑分析、树状数组|
 |37| [华为OD机试双机位C卷 - 贪吃蛇 ](https://blog.csdn.net/qq_45776114/article/details/150592761) |模拟|
 |38| [华为OD机试双机位C卷 - 书籍叠放 ](https://blog.csdn.net/qq_45776114/article/details/148170889) |二分、动态规划|
+|39| [华为OD机试双机位C卷 - 统计差异值大于相似值二元组个数 ](https://blog.csdn.net/qq_45776114/article/details/153925842) |数学原理|
+|40| [华为OD机试双机位C卷 - 特殊的加密算法 ](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|

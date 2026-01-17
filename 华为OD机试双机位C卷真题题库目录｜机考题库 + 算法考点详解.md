@@ -69,6 +69,10 @@
 |65| [华为OD机试双机位C卷 - 最佳升级时间窗](https://blog.csdn.net/qq_45776114/article/details/156202743) |滑动窗口|
 |66| [华为OD机试双机位C卷 - 执行任务赚积分](https://blog.csdn.net/qq_45776114/article/details/146239784) |贪心|
 |67| [华为OD机试双机位C卷 - 符合条件的元组个数](https://blog.csdn.net/qq_45776114/article/details/153732838) |双指针|
+|68| [华为OD机试双机位C卷 - 明日之星选举](https://blog.csdn.net/qq_45776114/article/details/157036012) |逻辑分析、自定义排序|
+|69| [华为OD机试双机位C卷 -  最多香蕉数量 / 贪吃的猴子](https://blog.csdn.net/qq_45776114/article/details/155601403) |逻辑分析|
+|70| [华为OD机试双机位C卷 - 面试叫号系统](https://blog.csdn.net/qq_45776114/article/details/154760047) |模拟|
+|71| [华为OD机试双机位C卷 -分弹珠游戏](https://blog.csdn.net/qq_45776114/article/details/153827770) |DFS、二叉树|
 
 
 # 华为OD机试双机位C卷- 200分
@@ -112,5 +116,10 @@
 |36| [华为OD机试双机位C卷 - 结对编程 ](https://blog.csdn.net/qq_45776114/article/details/156398765) |逻辑分析、树状数组|
 |37| [华为OD机试双机位C卷 - 贪吃蛇 ](https://blog.csdn.net/qq_45776114/article/details/150592761) |模拟|
 |38| [华为OD机试双机位C卷 - 书籍叠放 ](https://blog.csdn.net/qq_45776114/article/details/148170889) |二分、动态规划|
-|39| [华为OD机试双机位C卷 - 统计差异值大于相似值二元组个数 ](https://blog.csdn.net/qq_45776114/article/details/153925842) |数学原理|
-|40| [华为OD机试双机位C卷 - 特殊的加密算法 ](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
+|39| [华为OD机试双机位C卷 - 区间连接器](https://blog.csdn.net/qq_45776114/article/details/153705802) |合并区间、贪心|
+|40| [华为OD机试双机位C卷 - 识文短句](https://blog.csdn.net/qq_45776114/article/details/150277326) |前缀树|
+|41| [华为OD机试双机位C卷 - 可以组成网络的服务器](https://blog.csdn.net/qq_45776114/article/details/151293670) |BFS|
+|42| [华为OD机试双机位C卷 - 周末爬山](https://blog.csdn.net/qq_45776114/article/details/149968941) |BFS|
+|43| [华为OD机试双机位C卷 - 不含101的数 ](https://blog.csdn.net/qq_45776114/article/details/148750957) |数位DP、记忆化搜索|
+|44| [华为OD机试双机位C卷 - 快递投放问题 ](https://blog.csdn.net/qq_45776114/article/details/157069526) |逻辑分析、BFS|
+|45| [华为OD机试双机位C卷 - 文件缓存系统](https://blog.csdn.net/qq_45776114/article/details/155201105) |哈希表、链表|

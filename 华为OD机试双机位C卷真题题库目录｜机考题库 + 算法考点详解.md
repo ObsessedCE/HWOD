@@ -81,8 +81,16 @@
 | 77| [华为OD机试双机位C卷 -密码解密](https://blog.csdn.net/qq_45776114/article/details/152073802) |正则、栈|
 | 78| [华为OD机试双机位C卷 - 最左侧冗余覆盖子串](https://blog.csdn.net/qq_45776114/article/details/154318166) |滑动窗口|
 |79| [华为OD机试双机位C卷 - AI面板识别](https://blog.csdn.net/qq_45776114/article/details/155159030) |模拟|
-|80| [华为OD机试双机位C卷 -最多购买宝石的数量](https://blog.csdn.net/qq_45776114/article/details/150454298) |双指针|
-|81| [华为OD机试双机位C卷 -数值同化](https://blog.csdn.net/qq_45776114/article/details/152957866) |BFS|
+|80| [华为OD机试双机位C卷 - 最多购买宝石的数量](https://blog.csdn.net/qq_45776114/article/details/150454298) |双指针|
+|81| [华为OD机试双机位C卷 - 数值同化](https://blog.csdn.net/qq_45776114/article/details/152957866) |BFS|
+|82| [华为OD机试双机位C卷 - 商品推荐多属性排序](https://blog.csdn.net/qq_45776114/article/details/153874327) |排序|
+|83| [华为OD机试双机位C卷 - 字符串解密](https://blog.csdn.net/qq_45776114/article/details/154437339) |模拟|
+|84| [华为OD机考双机位C卷 - 滑动窗口的最大值](https://blog.csdn.net/qq_45776114/article/details/150467912) |滑动窗口|
+|85| [华为OD机考双机位C卷 - FLASH坏块监测系统](https://blog.csdn.net/qq_45776114/article/details/157688842) |并查集|
+|86| [华为OD机考双机位C卷 - 简单的自动曝光](https://blog.csdn.net/qq_45776114/article/details/148311829) |逻辑分析|
+|87| [华为OD机考双机位C卷 - 路灯照明问题](https://blog.csdn.net/qq_45776114/article/details/155074768) |区间合并|
+|88| [华为OD机考双机位C卷 - 模拟消息队列](https://blog.csdn.net/qq_45776114/article/details/148238513) |模拟|
+|89| [华为OD机考双机位C卷 - 判断不等式是否满足约束并输出最大差](https://blog.csdn.net/qq_45776114/article/details/151452894) |模拟|
 
 
 # 华为OD机试双机位C卷- 200分
@@ -142,4 +150,13 @@
 |52| [华为OD机试双机位C卷 - 最佳植树距离 ](https://blog.csdn.net/qq_45776114/article/details/149250067) |二分|
 |53| [华为OD机考双机位C卷 - 特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
 |54| [华为OD机考双机位C卷 - 分月饼](https://blog.csdn.net/qq_45776114/article/details/149853875) |DFS|
-|55| [华为OD机试双机位C卷 -商品推荐多属性排序](https://blog.csdn.net/qq_45776114/article/details/153874327) |排序|
+|55| [华为OD机考双机位C卷 - Alice的安全旅行](https://blog.csdn.net/qq_45776114/article/details/157396604) |二分、BFS|
+|56| [华为OD机考双机位C卷 - 仿LISP运算](https://blog.csdn.net/qq_45776114/article/details/148356793) |逻辑分析|
+|57| [华为OD机考双机位C卷 - 数字游戏](https://blog.csdn.net/qq_45776114/article/details/148281063) |数学原理|
+|58| [华为OD机考双机位C卷 - 模拟数据序列化传输](https://blog.csdn.net/qq_45776114/article/details/152737888) |字符串处理|
+| 59| [华为OD机试双机位C卷 - 矩形绘制 ](https://blog.csdn.net/qq_45776114/article/details/145659178) |模拟、离散|
+| 60| [华为OD机试双机位C卷 - 运输时间 ](https://blog.csdn.net/qq_45776114/article/details/150012337) |模拟、逻辑分析|
+| 61| [华为OD机试双机位C卷 - 二叉树的广度优先遍历](https://blog.csdn.net/qq_45776114/article/details/150914645) |二叉树|
+| 62| [华为OD机试双机位C卷 - 连续出牌数量](https://blog.csdn.net/qq_45776114/article/details/149669545) |递归回溯|
+| 63| [华为OD机试双机位C卷 - 启动多任务排序](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|
+| 64| [华为OD机试双机位C卷 - 根据IP查找城市](https://blog.csdn.net/qq_45776114/article/details/148835825) |优先队列、离线算法|

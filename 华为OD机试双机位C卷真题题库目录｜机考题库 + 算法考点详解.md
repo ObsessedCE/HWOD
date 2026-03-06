@@ -3,8 +3,8 @@
 # 华为OD机试双机位C卷- 100分
 | 序号 |题目  | 考点 or 实现 |
 |--|--|--|
-|  1| [华为OD机试双机位C卷 -  查找接口成功率最优时间段](https://blog.csdn.net/qq_45776114/article/details/153066891) |前缀和|
-|  2| [华为OD机试双机位C卷 -  采购订单](https://blog.csdn.net/qq_45776114/article/details/153920676) |模拟|
+|  1| [华为OD机试双机位C卷 - 补种未成活胡杨](https://blog.csdn.net/qq_45776114/article/details/145021723) |双指针|
+|  2| [华为OD机试双机位C卷 -  查找接口成功率最优时间段](https://blog.csdn.net/qq_45776114/article/details/153066891) |前缀和|
 |  3| [华为OD机试双机位C卷 -  螺旋数字矩阵](https://blog.csdn.net/qq_45776114/article/details/149972158) |模拟、逻辑分析|
 |  4| [华为OD机试双机位C卷 -  运维日志排序](https://blog.csdn.net/qq_45776114/article/details/145956477) |正则、排序|
 |  5| [华为OD机试双机位C卷 -  评委评分](https://blog.csdn.net/qq_45776114/article/details/155316413) |模拟、排序|
@@ -24,7 +24,7 @@
 |  19| [华为OD机试双机位C卷 -  最长的顺子](https://blog.csdn.net/qq_45776114/article/details/146410589) |贪心|
 |  20| [华为OD机试双机位C卷 -  构成正方形的数量](https://blog.csdn.net/qq_45776114/article/details/145847428) |数学原理|
 |  21| [华为OD机试双机位C卷 - 整数编码](https://blog.csdn.net/qq_45776114/article/details/145314123) |二进制|
-|  22| [华为OD机试双机位C卷 - 补种未成活胡杨](https://blog.csdn.net/qq_45776114/article/details/145021723) |双指针|
+| 22| [华为OD机试双机位C卷 -  采购订单](https://blog.csdn.net/qq_45776114/article/details/153920676) |模拟|
 |  23| [华为OD机试双机位C卷 - 猜数字](https://blog.csdn.net/qq_45776114/article/details/152001576) |模拟|
 |  24| [华为OD机试双机位C卷 - 贪心的商人](https://blog.csdn.net/qq_45776114/article/details/151576048) |贪心|
 |  25| [华为OD机试双机位C卷 - 小华地图寻宝](https://blog.csdn.net/qq_45776114/article/details/149677299) |BFS、DFS|
@@ -91,6 +91,10 @@
 |87| [华为OD机考双机位C卷 - 路灯照明问题](https://blog.csdn.net/qq_45776114/article/details/155074768) |区间合并|
 |88| [华为OD机考双机位C卷 - 模拟消息队列](https://blog.csdn.net/qq_45776114/article/details/148238513) |模拟|
 |89| [华为OD机考双机位C卷 - 判断不等式是否满足约束并输出最大差](https://blog.csdn.net/qq_45776114/article/details/151452894) |模拟|
+|90| [华为OD机考双机位C卷 - 版本管理](https://blog.csdn.net/qq_45776114/article/details/151249551) |模拟|
+|91| [华为OD机考双机位C卷 - 转盘寿司](https://blog.csdn.net/qq_45776114/article/details/150552510) |单调栈|
+|92| [华为OD机考双机位C卷 - 自动化维修流水线](https://blog.csdn.net/qq_45776114/article/details/158580768) |二分、DFS|
+|93| [华为OD机考双机位C卷 - 太阳能板最大面积](https://blog.csdn.net/qq_45776114/article/details/148831002) |双指针|
 
 
 # 华为OD机试双机位C卷- 200分
@@ -148,7 +152,7 @@
 |50| [华为OD机试双机位C卷 - 荒岛求生 ](https://blog.csdn.net/qq_45776114/article/details/155408396) |栈模拟|
 |51| [华为OD机试双机位C卷 - 机器人走迷宫](https://blog.csdn.net/qq_45776114/article/details/155258930) |DFS|
 |52| [华为OD机试双机位C卷 - 最佳植树距离 ](https://blog.csdn.net/qq_45776114/article/details/149250067) |二分|
-|53| [华为OD机考双机位C卷 - 特殊的加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
+|53| [华为OD机考双机位C卷 - 加密算法](https://blog.csdn.net/qq_45776114/article/details/152314794) |递归回溯|
 |54| [华为OD机考双机位C卷 - 分月饼](https://blog.csdn.net/qq_45776114/article/details/149853875) |DFS|
 |55| [华为OD机考双机位C卷 - Alice的安全旅行](https://blog.csdn.net/qq_45776114/article/details/157396604) |二分、BFS|
 |56| [华为OD机考双机位C卷 - 仿LISP运算](https://blog.csdn.net/qq_45776114/article/details/148356793) |逻辑分析|
@@ -160,3 +164,16 @@
 | 62| [华为OD机试双机位C卷 - 连续出牌数量](https://blog.csdn.net/qq_45776114/article/details/149669545) |递归回溯|
 | 63| [华为OD机试双机位C卷 - 启动多任务排序](https://blog.csdn.net/qq_45776114/article/details/153635970) |拓扑排序|
 | 64| [华为OD机试双机位C卷 - 根据IP查找城市](https://blog.csdn.net/qq_45776114/article/details/148835825) |优先队列、离线算法|
+| 65| [华为OD机试双机位C卷 - 几何平均值最大子数组](https://blog.csdn.net/qq_45776114/article/details/149471563) |数学原理、二分|
+| 66| [华为OD机试双机位C卷 - MELON的难题](https://blog.csdn.net/qq_45776114/article/details/146122107) |动态规划|
+| 67| [华为OD机试双机位C卷 - 矩阵匹配](https://blog.csdn.net/qq_45776114/article/details/146154153) |二分|
+| 68| [华为OD机试双机位C卷 - 最多几个直角三角形](https://blog.csdn.net/qq_45776114/article/details/148923054) |递归回溯|
+| 69| [华为OD机试双机位C卷 - 黑白棋](https://blog.csdn.net/qq_45776114/article/details/158664224) |BFS|
+| 70| [华为OD机试双机位C卷 - 日志解析](https://blog.csdn.net/qq_45776114/article/details/158685588) |二分|
+| 71| [华为OD机试双机位C卷 - 找单词](https://blog.csdn.net/qq_45776114/article/details/158701684) |递归回溯|
+| 72| [华为OD机试双机位C卷 - 基站维修工程师](https://blog.csdn.net/qq_45776114/article/details/151958118) |递归回溯|
+| 73| [华为OD机试双机位C卷 - 取出尽可能少的球](https://blog.csdn.net/qq_45776114/article/details/152617237) |二分|
+| 74| [华为OD机试双机位C卷 - WonderLand](https://blog.csdn.net/qq_45776114/article/details/153409718) |动态规划|
+| 75| [华为OD机试双机位C卷 - 路口最短时间问题](https://blog.csdn.net/qq_45776114/article/details/155310846) |BFS|
+| 76| [华为OD机试双机位C卷 - 简单的解压缩算法](https://blog.csdn.net/qq_45776114/article/details/158740662) |栈模拟|
+| 77| [华为OD机试双机位C卷 - 猜密码](https://blog.csdn.net/qq_45776114/article/details/158741303) |递归回溯|

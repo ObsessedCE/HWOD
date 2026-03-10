@@ -7,7 +7,7 @@
 |  2| [华为OD机试双机位C卷 -  查找接口成功率最优时间段](https://blog.csdn.net/qq_45776114/article/details/153066891) |前缀和|
 |  3| [华为OD机试双机位C卷 -  螺旋数字矩阵](https://blog.csdn.net/qq_45776114/article/details/149972158) |模拟、逻辑分析|
 |  4| [华为OD机试双机位C卷 -  运维日志排序](https://blog.csdn.net/qq_45776114/article/details/145956477) |正则、排序|
-|  5| [华为OD机试双机位C卷 -  评委评分](https://blog.csdn.net/qq_45776114/article/details/155316413) |模拟、排序|
+|  5| [华为OD机试双机位C卷 -  比赛](https://blog.csdn.net/qq_45776114/article/details/155316413) |模拟、排序|
 |  6| [华为OD机试双机位C卷 -  打印机队列](https://blog.csdn.net/qq_45776114/article/details/154494838) |优先队列|
 |  7| [华为OD机试双机位C卷 -  微服务的集成测试](https://blog.csdn.net/qq_45776114/article/details/149915752) |DFS、哈希表|
 |  8| [华为OD机试双机位C卷 -  完美走位](https://blog.csdn.net/qq_45776114/article/details/145313619) |双指针|
@@ -95,6 +95,8 @@
 |91| [华为OD机考双机位C卷 - 转盘寿司](https://blog.csdn.net/qq_45776114/article/details/150552510) |单调栈|
 |92| [华为OD机考双机位C卷 - 自动化维修流水线](https://blog.csdn.net/qq_45776114/article/details/158580768) |二分、DFS|
 |93| [华为OD机考双机位C卷 - 太阳能板最大面积](https://blog.csdn.net/qq_45776114/article/details/148831002) |双指针|
+|94| [华为OD机试双机位B卷 - 流量波峰](https://blog.csdn.net/qq_45776114/article/details/155264580) |单调栈|
+|95| [华为OD机试双机位C卷 - 矩阵扩散 ](https://blog.csdn.net/qq_45776114/article/details/154985212) |BFS|
 
 
 # 华为OD机试双机位C卷- 200分
@@ -104,7 +106,7 @@
 |  2| [华为OD机考双机位C卷 - 天然蓄水池](https://blog.csdn.net/qq_45776114/article/details/146410570) |双指针|
 |  3| [华为OD机考双机位C卷 - 优雅数组](https://blog.csdn.net/qq_45776114/article/details/154334317) |双指针|
 |  4| [华为OD机考双机位C卷 - 竖直四子棋](https://blog.csdn.net/qq_45776114/article/details/148980356) |逻辑分析、DFS|
-|  5| [华为OD机考双机位C卷 - 两个字符串间的最短路径](https://blog.csdn.net/qq_45776114/article/details/147141325) |动态规划|
+| 5| [华为OD机试双机位C卷 - 主次关联成环警告](https://blog.csdn.net/qq_45776114/article/details/158842465) |拓扑排序|
 |  6| [华为OD机考双机位C卷 - 宜居星球改造计划](https://blog.csdn.net/qq_45776114/article/details/146175809) |BFS|
 |  7| [华为OD机考双机位C卷 - 数组连续和](https://blog.csdn.net/qq_45776114/article/details/155527890) |前缀和、双指针|
 |  8| [华为OD机考双机位C卷 - 二维伞的雨滴效应](https://blog.csdn.net/qq_45776114/article/details/149840929) |二叉搜索树|
@@ -177,3 +179,7 @@
 | 75| [华为OD机试双机位C卷 - 路口最短时间问题](https://blog.csdn.net/qq_45776114/article/details/155310846) |BFS|
 | 76| [华为OD机试双机位C卷 - 简单的解压缩算法](https://blog.csdn.net/qq_45776114/article/details/158740662) |栈模拟|
 | 77| [华为OD机试双机位C卷 - 猜密码](https://blog.csdn.net/qq_45776114/article/details/158741303) |递归回溯|
+| 78| [华为OD机试双机位C卷 - 主次关联成环警告](https://blog.csdn.net/qq_45776114/article/details/158842465) |拓扑排序|
+|79| [华为OD机考双机位C卷 - 两个字符串间的最短路径](https://blog.csdn.net/qq_45776114/article/details/147141325) |动态规划|
+|80| [华为OD机考双机位C卷 - 智能驾驶](https://blog.csdn.net/qq_45776114/article/details/154725698) |二分、DFS|
+

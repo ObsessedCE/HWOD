@@ -95,7 +95,7 @@
 |91| [华为OD机考双机位C卷 - 转盘寿司](https://blog.csdn.net/qq_45776114/article/details/150552510) |单调栈|
 |92| [华为OD机考双机位C卷 - 自动化维修流水线](https://blog.csdn.net/qq_45776114/article/details/158580768) |二分、DFS|
 |93| [华为OD机考双机位C卷 - 太阳能板最大面积](https://blog.csdn.net/qq_45776114/article/details/148831002) |双指针|
-|94| [华为OD机试双机位B卷 - 流量波峰](https://blog.csdn.net/qq_45776114/article/details/155264580) |单调栈|
+| 94| [华为OD机试双机位C卷 -  流量波峰](https://blog.csdn.net/qq_45776114/article/details/150494280) |单调栈|
 |95| [华为OD机试双机位C卷 - 矩阵扩散 ](https://blog.csdn.net/qq_45776114/article/details/154985212) |BFS|
 
 
@@ -182,4 +182,3 @@
 | 78| [华为OD机试双机位C卷 - 主次关联成环警告](https://blog.csdn.net/qq_45776114/article/details/158842465) |拓扑排序|
 |79| [华为OD机考双机位C卷 - 两个字符串间的最短路径](https://blog.csdn.net/qq_45776114/article/details/147141325) |动态规划|
 |80| [华为OD机考双机位C卷 - 智能驾驶](https://blog.csdn.net/qq_45776114/article/details/154725698) |二分、DFS|
-

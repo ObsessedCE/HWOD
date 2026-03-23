@@ -97,6 +97,7 @@
 |93| [华为OD机考双机位C卷 - 太阳能板最大面积](https://blog.csdn.net/qq_45776114/article/details/148831002) |双指针|
 | 94| [华为OD机试双机位C卷 -  流量波峰](https://blog.csdn.net/qq_45776114/article/details/150494280) |单调栈|
 |95| [华为OD机试双机位C卷 - 矩阵扩散 ](https://blog.csdn.net/qq_45776114/article/details/154985212) |BFS|
+|96| [华为OD机试双机位C卷 - 虚拟文件系统](https://blog.csdn.net/qq_45776114/article/details/147480476) |模拟|
 
 
 # 华为OD机试双机位C卷- 200分

@@ -1,4 +1,11 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
+# 华为OD机试真题 新系统 5.13
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - 查找能被整除的最大整数](https://blog.csdn.net/qq_45776114/article/details/161066144) |模拟|
+|100分| [华为OD机试新系统真题 - 数据包优先级窗口查找](https://blog.csdn.net/qq_45776114/article/details/161067269) |单调栈|
+| 200分| [华为OD机试新系统真题 - 社交网络相同爱好好友查询](https://blog.csdn.net/qq_45776114/article/details/161067345) |BFS|
+
 
 
 # 华为OD新系统机试5.10真题

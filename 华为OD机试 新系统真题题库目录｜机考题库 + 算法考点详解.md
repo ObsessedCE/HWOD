@@ -1,4 +1,12 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
+
+# 华为OD机试真题 新系统 5.17
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - IP地址分类识别](https://blog.csdn.net/qq_45776114/article/details/161176738) |模拟|
+|100分| [华为OD机试新系统真题 - 麻将基本胡牌型判断](https://blog.csdn.net/qq_45776114/article/details/161199208) |递归回溯|
+| 200分| [华为OD机试新系统真题 - 输出二叉树后序遍历结果](https://blog.csdn.net/qq_45776114/article/details/161201482) |二叉树|
+
 # 华为OD机试真题 新系统 5.13
 | 分值 |题目  | 考点 or 实现 |
 |--|--|--|

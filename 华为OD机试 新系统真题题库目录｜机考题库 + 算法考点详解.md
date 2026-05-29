@@ -1,5 +1,28 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
+
+# 华为OD机试真题 新系统 5.27
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - 小学生班长选举](https://blog.csdn.net/qq_45776114/article/details/161470155) |逻辑分析、哈希表|
+|100分| [华为OD机试新系统真题 - Skill执行链完整性检测](https://blog.csdn.net/qq_45776114/article/details/161470230) |暴力枚举|
+| 200分| [华为OD机试新系统真题 - 充电桩最优布局规划](https://blog.csdn.net/qq_45776114/article/details/161488857) |动态规划|
+
+# 华为OD机试真题 新系统 5.24
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - 简单表达式计算](https://blog.csdn.net/qq_45776114/article/details/161377130) |模拟|
+|100分| [华为OD机试新系统真题 - 最小请求间隔限流策略](https://blog.csdn.net/qq_45776114/article/details/161377147) |动态规划|
+| 200分| [华为OD机试新系统真题 - 优化充电桩调度算法](https://blog.csdn.net/qq_45776114/article/details/161396188) |贪心|
+
+# 华为OD机试真题 新系统 5.20
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - 小学英语老师批改作文](https://blog.csdn.net/qq_45776114/article/details/161267225) |滑动窗口|
+|100分| [华为OD机试新系统真题 - 等距二进制判断](https://blog.csdn.net/qq_45776114/article/details/161267273) |二进制移位、逻辑分析|
+| 200分| [华为OD机试新系统真题 - 多模型版本的最优调度](https://blog.csdn.net/qq_45776114/article/details/161291725) |动态规划|
+
+
 # 华为OD机试真题 新系统 5.17
 | 分值 |题目  | 考点 or 实现 |
 |--|--|--|

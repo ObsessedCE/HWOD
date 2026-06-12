@@ -1,5 +1,32 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
+# 华为OD机试真题 新系统 6.10
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|6.10|100分| [华为OD机试新系统真题 - 设备重排SN](https://blog.csdn.net/qq_45776114/article/details/161880016) |模拟|
+|6.10|100分| [华为OD机试新系统真题 - 查找温度记录统计信息](https://blog.csdn.net/qq_45776114/article/details/161887964) |滑动窗口|
+|6.10| 200分| [华为OD机试新系统真题 - 双系统资源类型调配](https://blog.csdn.net/qq_45776114/article/details/161888461) |逻辑分析|
+
+# 华为OD机试真题 新系统 6.7
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|6.7|100分| [华为OD机试新系统真题 - 网络数据包收发处理](https://blog.csdn.net/qq_45776114/article/details/161789161) |模拟|
+|6.7|100分| [华为OD机试新系统真题 - 内网IP有效性校验](https://blog.csdn.net/qq_45776114/article/details/161791375) |逻辑分析、自定义排序|
+|6.7| 200分| [华为OD机试新系统真题 - 最佳任务统筹](https://blog.csdn.net/qq_45776114/article/details/161794229) |动态规划|
+
+# 华为OD机试真题 新系统 6.3
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|6.3|100分| [华为OD机试新系统真题 - 统计盈利目标区间](https://blog.csdn.net/qq_45776114/article/details/161672379) |逻辑分析、前缀和|
+|6.3|100分| [华为OD机试新系统真题 - 返回所有加载的AGENTS.md文件ID列表](https://blog.csdn.net/qq_45776114/article/details/161672502) |DFS|
+|6.3| 200分| [华为OD机试新系统真题 - 资源二分类隔离判定](https://blog.csdn.net/qq_45776114/article/details/161674696) |BFS|
+
+# 华为OD机试真题 新系统 5.31
+| 分值 |题目  | 考点 or 实现 |
+|--|--|--|
+|100分| [华为OD机试新系统真题 - 链表数字游戏](https://blog.csdn.net/qq_45776114/article/details/161587469) |逻辑分析|
+|100分| [华为OD机试新系统真题 - 部门内部最大层级](https://blog.csdn.net/qq_45776114/article/details/161591011) |BFS|
+| 200分| [华为OD机试新系统真题 - 魔法阵的能量收集](https://blog.csdn.net/qq_45776114/article/details/161596112) |前缀和、数学定理、单调栈|
 
 # 华为OD机试真题 新系统 5.27
 | 分值 |题目  | 考点 or 实现 |

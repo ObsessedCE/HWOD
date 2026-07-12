@@ -1,6 +1,28 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
 
+# 华为OD机试真题 新系统 7.8
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|7.8|100分| [华为OD机试新系统真题 - 魔法咒语组合](https://blog.csdn.net/qq_45776114/article/details/162733217) |递归回溯|
+|7.8|100分| [华为OD机试新系统真题 - 计算碳排放减少量](https://blog.csdn.net/qq_45776114/article/details/162735349) |并查集|
+|7.8| 200分| [华为OD机试新系统真题 - 迷宫相遇](https://blog.csdn.net/qq_45776114/article/details/162737099) |bfs|
+
+# 华为OD机试真题 新系统 7.5
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|7.5|100分| [华为OD机试新系统真题 - 省超足球比赛获胜队伍统计](https://blog.csdn.net/qq_45776114/article/details/162629739) |模拟|
+|7.5|100分| [华为OD机试新系统真题 - SQL记录拆分](https://blog.csdn.net/qq_45776114/article/details/162634591) |并查集|
+|7.5| 200分| [华为OD机试新系统真题 - 二叉树两节点间的最小跳数](https://blog.csdn.net/qq_45776114/article/details/162640587) |二叉树|
+
+# 华为OD机试真题 新系统 7.1
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|7.1|100分| [华为OD机试新系统真题 - 仓库盘点](https://blog.csdn.net/qq_45776114/article/details/162506756) |自定义排序|
+|7.1|100分| [华为OD机试新系统真题 - 奇偶三数之和](https://blog.csdn.net/qq_45776114/article/details/162507193) |双指针|
+|7.1| 200分| [华为OD机试新系统真题 - 收集灵草](https://blog.csdn.net/qq_45776114/article/details/162524338) |枚举|
+
+
 # 华为OD机试真题 新系统 6.28
 |日期| 分值 |题目  | 考点 or 实现 |
 |--|--|--|--|

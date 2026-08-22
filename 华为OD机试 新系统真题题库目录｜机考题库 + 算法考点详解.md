@@ -9,32 +9,33 @@
 
 
 # 华为OD机试真题 新系统 8.16
-|日期| 分值 |题目  | 考点 or 实现 | 在线OJ地址|
-|--|--|--|--|--|
-|8.16|100分| [华为OD机试新系统真题 - 电池充电时间计算](https://blog.csdn.net/qq_45776114/article/details/163832489) |模拟|[点击去做题](https://hydro.ac/d/coder_gather/p/od0114)|
-|8.16|100分| [华为OD机试新系统真题 - 信道资源分配与掩码运算](https://blog.csdn.net/qq_45776114/article/details/163831069) |位运算|[点击去做题](https://hydro.ac/d/coder_gather/p/od0112)|
-|8.16| 200分| [华为OD机试新系统真题 - 智能家居模式调度优化](https://blog.csdn.net/qq_45776114/article/details/163831634) |递归回溯|[点击去做题](https://hydro.ac/d/coder_gather/p/od0113)|
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.16|100分| [华为OD机试新系统真题 - 电池充电时间计算](https://blog.csdn.net/qq_45776114/article/details/163832489) |模拟|
+|8.16|100分| [华为OD机试新系统真题 - 信道资源分配与掩码运算](https://blog.csdn.net/qq_45776114/article/details/163831069) |位运算|
+|8.16| 200分| [华为OD机试新系统真题 - 智能家居模式调度优化](https://blog.csdn.net/qq_45776114/article/details/163831634) |递归回溯|
 
 # 华为OD机试真题 新系统 8.12
-|日期| 分值 |题目  | 考点 or 实现 | 在线OJ地址|
-|--|--|--|--|--|
-|8.12|100分| [华为OD机试新系统真题 - LLM推理批次最大化](https://blog.csdn.net/qq_45776114/article/details/163713292) |贪心|[点击去做题](https://hydro.ac/d/coder_gather/p/od0109)|
-|8.12|100分| [华为OD机试新系统真题 - 获取二叉树第k层的数值](https://blog.csdn.net/qq_45776114/article/details/163718277) |二叉树、BFS|[点击去做题](https://hydro.ac/d/coder_gather/p/od0110)|
-|8.12| 200分| [华为OD机试新系统真题 - 末世分配资源包](https://blog.csdn.net/qq_45776114/article/details/163716492) |二分、贪心|[点击去做题](https://hydro.ac/d/coder_gather/p/od0111)|
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.12|100分| [华为OD机试新系统真题 - LLM推理批次最大化](https://blog.csdn.net/qq_45776114/article/details/163713292) |贪心|
+|8.12|100分| [华为OD机试新系统真题 - 获取二叉树第k层的数值](https://blog.csdn.net/qq_45776114/article/details/163718277) |二叉树、BFS|
+|8.12| 200分| [华为OD机试新系统真题 - 末世分配资源包](https://blog.csdn.net/qq_45776114/article/details/163716492) |二分、贪心|
 
 # 华为OD机试真题 新系统 8.9
-|日期| 分值 |题目  | 考点 or 实现 | 在线OJ地址|
-|--|--|--|--|--|
-|8.9|100分| [华为OD机试新系统真题 - 查找最佳充电策略](https://blog.csdn.net/qq_45776114/article/details/163624727) |滑动窗口|[点击去做题](https://hydro.ac/d/coder_gather/p/od0106)|
-|8.9|100分| [华为OD机试新系统真题 - 灯带颜色变换](https://blog.csdn.net/qq_45776114/article/details/163624850) |逻辑分析|[点击去做题](https://hydro.ac/d/coder_gather/p/od0107)|
-|8.9| 200分| [华为OD机试新系统真题 - 云南菌子加工](https://blog.csdn.net/qq_45776114/article/details/163625351) |贪心、动态规划|[点击去做题](https://hydro.ac/d/coder_gather/p/od0108)|
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.9|100分| [华为OD机试新系统真题 - 查找最佳充电策略](https://blog.csdn.net/qq_45776114/article/details/163624727) |滑动窗口|
+|8.9|100分| [华为OD机试新系统真题 - 灯带颜色变换](https://blog.csdn.net/qq_45776114/article/details/163624850) |逻辑分析|
+|8.9| 200分| [华为OD机试新系统真题 - 云南菌子加工](https://blog.csdn.net/qq_45776114/article/details/163625351) |贪心、动态规划|
 
 # 华为OD机试真题 新系统 8.5
-|日期| 分值 |题目  | 考点 or 实现 | 在线OJ地址|
-|--|--|--|--|--|
-|8.5|100分| [华为OD机试新系统真题 - 最长不连续子串](https://blog.csdn.net/qq_45776114/article/details/163527171) |双指针|[点击去做题](https://hydro.ac/d/coder_gather/p/od0103)|
-|8.5|100分| [华为OD机试新系统真题 - 智能广播合并台号](https://blog.csdn.net/qq_45776114/article/details/163531094) |双指针|[点击去做题](https://hydro.ac/d/coder_gather/p/od0104)|
-|8.5| 200分| [华为OD机试新系统真题 - IPv4等长子网划分与自动分配系统](https://blog.csdn.net/qq_45776114/article/details/163534155) |模拟|[点击去做题](https://hydro.ac/d/coder_gather/p/od0105)|
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.5|100分| [华为OD机试新系统真题 - 最长不连续子串](https://blog.csdn.net/qq_45776114/article/details/163527171) |双指针|
+|8.5|100分| [华为OD机试新系统真题 - 智能广播合并台号](https://blog.csdn.net/qq_45776114/article/details/163531094) |双指针|
+|8.5| 200分| [华为OD机试新系统真题 - IPv4等长子网划分与自动分配系统](https://blog.csdn.net/qq_45776114/article/details/163534155) |模拟|
+
 
 
 # 华为OD机试真题 新系统 8.2

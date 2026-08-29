@@ -1,5 +1,20 @@
 转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
 
+# 华为OD机试真题 新系统 8.26
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.26|100分| [华为OD机试新系统真题 - 仓库查询](https://blog.csdn.net/qq_45776114/article/details/164119849) |树状数组|
+|8.26|100分| [华为OD机试新系统真题 - 字符串回文判断](https://blog.csdn.net/qq_45776114/article/details/164123883) |双指针、逻辑分析|
+|8.26| 200分| [华为OD机试新系统真题 - 部门绩效汇总](https://blog.csdn.net/qq_45776114/article/details/164124256) |DFS|
+
+# 华为OD机试真题 新系统 8.23
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|8.23|100分| [华为OD机试真题 新系统 - 直线冲刺](https://blog.csdn.net/qq_45776114/article/details/164011718) |模拟|
+|8.23|100分| [华为OD机试真题 新系统 - 小牛牛超市选品](https://blog.csdn.net/qq_45776114/article/details/164011725) |枚举|
+|8.23| 200分| [华为OD机试真题 新系统 - 抗洪救灾](https://blog.csdn.net/qq_45776114/article/details/164011737) |DFS|
+
+
 # 华为OD机试真题 新系统 8.19
 |日期| 分值 |题目  | 考点 or 实现 |
 |--|--|--|--|

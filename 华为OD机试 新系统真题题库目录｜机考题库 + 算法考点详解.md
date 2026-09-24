@@ -1,4 +1,25 @@
-转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD新系统机试真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
+转载一下CSDN博主最新分享华为OD新系统真题. 原文链接 [华为OD机试 新系统 真题题库目录｜机考题库 + 算法考点详解](https://blog.csdn.net/qq_45776114/article/details/145076776)
+
+# 华为OD机试真题 新系统 9.23
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|9.23|100分| [华为OD机试真题 新系统 - 世界杯徽章换购](https://blog.csdn.net/qq_45776114/article/details/166578861) |逻辑分析|
+|9.23|100分| [华为OD机试真题 新系统 - 小菊的寻宝之旅](https://blog.csdn.net/qq_45776114/article/details/166585868) |BFS|
+|9.23| 200分| [华为OD机试真题 新系统 - 自由摄影师的最大收益 ](https://blog.csdn.net/qq_45776114/article/details/166591730) |动态规划|
+
+# 华为OD机试真题 新系统 9.20
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|9.20|100分| [华为OD机试真题 新系统 - 字符串分组求和](https://blog.csdn.net/qq_45776114/article/details/166485818) |模拟|
+|9.20|100分| [华为OD机试真题 新系统 - 简单 URL 路径提取器](https://blog.csdn.net/qq_45776114/article/details/166486813) |排序、字符串处理|
+|9.20| 200分| [华为OD机试真题 新系统 - 递增差排列 ](https://blog.csdn.net/qq_45776114/article/details/166488211) |递归回溯|
+
+# 华为OD机试真题 新系统 9.16
+|日期| 分值 |题目  | 考点 or 实现 |
+|--|--|--|--|
+|9.16|100分| [华为OD机试真题 新系统 - 统计特殊数字](https://blog.csdn.net/qq_45776114/article/details/165991075) |数学、DFS|
+|9.16|100分| [华为OD机试真题 新系统 - 矩阵螺旋遍历与二进制特征](https://blog.csdn.net/qq_45776114/article/details/165755605) |模拟|
+|9.16| 200分| [华为OD机试真题 新系统 - 园区基站节能部署规划 ](https://blog.csdn.net/qq_45776114/article/details/165852594) |二分、数学|
 
 
 # 华为OD机试真题 新系统 9.13
